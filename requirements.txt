@@ -4,3 +4,4 @@ shap
 joblib
 matplotlib
 xgboost
+streamlit_echarts
